@@ -1,0 +1,9 @@
+# Pastas de build e dependências
+node_modules/
+.next/
+
+# Arquivos de configuração e lock files
+package-lock.json
+
+# Submódulo que pode estar causando erro
+nlw_connect/
